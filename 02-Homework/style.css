@@ -1,1 +1,65 @@
-style.css
+
+body { 
+   width: 100%;
+   height: 100%;
+   background-color: #424554;
+   color: white;
+  
+}
+.github{
+    font-size: 60px;
+    text-align: center;
+    top: 100%;
+    left: 45%;
+    transform: translate(-50%, 0%);
+    position: absolute;
+}
+.linkedin {
+    font-size: 60px;
+    text-align: center;
+    left: 55%;
+    transform: translate(-50%, 0%);
+    position: absolute;
+}
+
+.social_media {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.jumbotron{
+    width: 100%;
+    position: relative;
+    background-color:  #1f2133;
+}
+
+.figure {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.card {
+    background-color:   #424554;
+}
+
+.contact {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.portfolio_img{
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+footer{
+  bottom:0;
+  width: 100%;
+  height: 9rem; 
+}
+
+.footer_text{
+    color: white;
+}
