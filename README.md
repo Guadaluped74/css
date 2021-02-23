@@ -1,24 +1,15 @@
 ## Installation
 
 The links needed for this project to are this: 
+https://guadaluped74.github.io/css/
+https://github.com/Guadaluped74/css/edit/Main
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
+This is my project portfolio and it's ready to have some updates but also to include my projects from what I have learned in Bootcamp. It will hopefully in the future help get a job or opportunity 
 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
+I used two frameworks when it came to this project which were bootstrap and font awesome to make the web page.
 
